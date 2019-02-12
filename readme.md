@@ -1,4 +1,4 @@
-## Java Script ES6 features :chart_with_upwards_trend:
+## Java Script ES6 features :electron:
 
 * function
 * callback function
