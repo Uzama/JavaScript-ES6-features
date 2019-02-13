@@ -7,5 +7,5 @@
 * iife -> imediatly involked function expression
 
 To run the javascript file 
-> node <file name>.js
+> node (file name).js
 
